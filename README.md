@@ -4,7 +4,7 @@ My name is Simge ŞEN and I'm a computer engineer/software developer. I'm from T
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [simgesen.github.io](https://simgesen.github.io/) as well as on [Medium](https://medium.com/@simgesen).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [simgesen.github.io](https://simge.github.io/) as well as on [Medium](https://medium.com/@simgesen).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/simgessn
-[2]: https://github.com/simgesen
+[2]: https://github.com/simge
 [3]: https://www.linkedin.com/in/simge-şen-8978851a9/
 
 
